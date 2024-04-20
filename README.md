@@ -20,5 +20,6 @@ One way to perform vehicle counting is through the use of computer vision techni
 **Tools and Technologies**
 
 Language: Python
+
 Tools: Open-CV , Numpy
 
